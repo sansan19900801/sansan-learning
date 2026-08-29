@@ -1,6 +1,7 @@
 ---
 name: sansan-learning
 description: 把课题拆成连续学习文章，每篇绑定可观察能力点、配主动回忆自测，并根据用户真实反馈和自测结果调整后续深度、角度、节奏，按节点安排间隔复习，学完做综合应用验收。支持两种启动：直接给主题，或丢来一段优质内容反推出背后知识体系再建课。用户要求系统学习一个主题、连续写课、继续下一篇、按反馈调整课程，或想从一篇好内容反推该学什么时使用。
+version: 1.0.1
 ---
 
 # sansan-learning：交互式学习
@@ -473,3 +474,10 @@ description: 把课题拆成连续学习文章，每篇绑定可观察能力点�
 ---
 
 完成当前任务后直接结束。
+
+## 作者与支持
+
+- 作者：sansan（[GitHub 主页](https://github.com/sansan19900801)）
+- 如需加入付费答疑群，可扫码或打开[答疑群说明](https://mp.weixin.qq.com/s/3wporFEz1cGNWslmZsgPKw)
+
+![付费答疑群二维码](https://raw.githubusercontent.com/sansan19900801/sansan-learning/main/assets/support-qr.jpg)
